@@ -1,4 +1,4 @@
-# 👨‍💻 Robson Martins
+# Robson Martins
 
 ## 🚀 Back-End Developer | Node.js | TypeScript
 
